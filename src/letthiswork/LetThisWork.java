@@ -14,6 +14,7 @@ public class LetThisWork {
         Scanner input = new Scanner(System.in);
         
         System.out.println("Hello there traveler, what is your name? ");
+        System.out.println("500 dollars paypal");
     }
     
 }
